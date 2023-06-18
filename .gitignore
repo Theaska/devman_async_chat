@@ -161,4 +161,4 @@ cython_debug/
 
 
 # logs
-*_log.txt
+*log*.txt
